@@ -1,0 +1,13 @@
+{
+  "name": "ESPHome_http_update",
+  "version": "0.0.1",
+  "builds": [
+    {
+      "chipFamily": "esp12e",
+      "ota": {
+        "md5": "0xDA67458819C63D9686D7ABA5C23F55C6",
+        "path": "https://github.com/pup22/ESPHome_http_update/releases/download/v1.0/firmware.bin"
+      }
+    }
+  ]
+}
